@@ -1,0 +1,7 @@
+# requirements.txt
+fastapi
+uvicorn[standard] # Includes gunicorn for production if needed
+crewai
+langchain
+langchain-openai
+pydantic
